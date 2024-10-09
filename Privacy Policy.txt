@@ -1,0 +1,36 @@
+At LunaOpenLabs, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our application, Luna Code Checker.
+
+Information We Collect
+Personal Information: We do not collect personal information unless you voluntarily provide it to us, such as when you create an account or contact us for support.
+
+Usage Data: We may collect information about how you use the application, including your interactions, preferences, and performance metrics. This data helps us improve our services.
+
+How We Use Your Information
+We may use the information we collect for the following purposes:
+
+To provide and maintain Luna Code Checker
+To improve, personalize, and expand our application
+To understand and analyze how you use our application
+To communicate with you, including for support and updates
+Disclosure of Your Information
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except in the following circumstances:
+
+To comply with legal obligations
+To protect and defend our rights and property
+To prevent or investigate possible wrongdoing in connection with the application
+Security of Your Information
+We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. However, please remember that no method of transmission over the internet or method of electronic storage is 100% secure.
+
+Your Rights
+Depending on your jurisdiction, you may have the following rights regarding your personal information:
+
+The right to access your information
+The right to request correction of your information
+The right to request deletion of your information
+To exercise these rights, please contact us at faisaldadkhandevops@gmail.com.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at faisaldadkhandevops@gmail.com.
